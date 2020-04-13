@@ -1,0 +1,25 @@
+Diffrent Data types exists
+
+int 7;
+
+int is Data type with 7 an expression 
+
+str, int , float etc are data types
+
+
+
+
+TYPE CASTING
+
+conversion of one data type to another is type casting
+
+conversion from int to float 
+float- int ( info gets lost in this procedures)
+
+int(3.99)
+
+String to int or vice versa
+
+
+bool(1) gives TRUE
+bool(0) gives FALSE also kind of type casting

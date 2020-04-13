@@ -1,0 +1,14 @@
+int x = 4+5
+
+
+THINGS TO KNOW 
+
+EXPRESSION (4+5)
+
+OPERATOR
+OPERAND
+
+in division // returns integer result . prevents from float
+
+
+BODMAS RULES IS FOLLOWED IN MATHEMATICAL CALCULATIONS

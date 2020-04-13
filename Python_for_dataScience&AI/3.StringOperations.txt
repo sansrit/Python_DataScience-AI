@@ -1,0 +1,45 @@
+WE CAN BIND THE ELEMENTS OF ARRAY
+ FOR AN ARRAY Name
+
+Name[0:4] 
+imples it binds elements form index 0 to 3
+
+Michael 
+
+MICH
+
+SLICING
+
+Name[::2] : M C A L ..
+Zero indexing bata 1 ta skip gardai arko value return garcha
+
+
+TUPLES : SLICING
+
+len("sansrit") = 7
+
+returns the length of elements
+
+
+CONCATINATION OF STRINGS
+
+	Name = "sansrit"
+
+	Statement = Name + " is the best"
+
+	Statement = "sansri is the best"
+
+
+WE CAN REPLACATE THE STRING CONTENT JUST BY MULTIPLICATIONS
+
+4*"Sansrit" implies 
+
+SansritSansrit SansritSansrit
+
+CAN APPLY METHODS TO STRING SUCH AS 
+CONVERT STRING TO UPPER CASE
+FIND STRINGS
+	WHICH THEN RETURNS THE FIRST INDEX OF MATCHING SWQUENCE
+
+
+
